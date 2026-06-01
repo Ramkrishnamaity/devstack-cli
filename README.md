@@ -5,13 +5,13 @@ A CLI tool to scaffold production-ready Node.js projects in seconds — no repet
 ## Usage
 
 ```bash
-npx devstack-cli
+npx @_ramkrishna11/devstack-cli
 ```
 
 Or install globally:
 
 ```bash
-npm install -g devstack-cli
+npm install -g @_ramkrishna11/devstack-cli
 ```
 
 ## What it does
