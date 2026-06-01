@@ -1,6 +1,6 @@
 {
   "name": "@_ramkrishna11/devstack-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Full stack project scaffolding CLI for React, Node.js, and Next.js",
   "main": "src/index.js",
   "bin": {
