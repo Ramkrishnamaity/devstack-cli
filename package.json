@@ -24,13 +24,6 @@
   ],
   "author": "Ramkrishna",
   "license": "ISC",
-  "devEngines": {
-    "packageManager": {
-      "name": "pnpm",
-      "version": "^11.5.0",
-      "onFail": "download"
-    }
-  },
   "type": "module",
   "dependencies": {
     "chalk": "^5.6.2",
